@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://thomasgapkit.github.io/directorio-ia-costa-del-sol/sitemap.xml
